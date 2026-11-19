@@ -1,0 +1,177 @@
+{
+  "id": "u1",
+  "title": "Basics",
+  "description": "Say hello, introduce yourself and talk about who you are.",
+  "lessons": [
+    {
+      "id": "u1-l01",
+      "title": "Greetings",
+      "tip": "Xin chào works with everyone. Vietnamese often adds a word for the person: chào anh (to a man a bit older than you), chào chị (to a woman a bit older), chào em (to someone younger), chào bạn (to someone your age).",
+      "items": [
+        { "vi": "Xin chào!", "en": "Hello!", "alt": ["Hi!"] },
+        { "vi": "Chào anh Nam!", "en": "Hello, Nam!", "alt": ["Hi, Nam!"], "note": "anh: for a man a bit older than you." },
+        { "vi": "Chào chị Lan!", "en": "Hello, Lan!", "alt": ["Hi, Lan!"], "note": "chị: for a woman a bit older than you." },
+        { "vi": "Bạn khỏe không?", "en": "How are you?", "alt": ["Are you well?"] },
+        { "vi": "Tôi khỏe, cảm ơn.", "en": "I am fine, thank you.", "alt": ["I'm fine, thank you.", "I am well, thank you.", "I'm well, thank you.", "I'm fine, thanks."] },
+        { "vi": "Còn bạn thì sao?", "en": "And how about you?", "alt": ["And you?", "What about you?", "How about you?"] },
+        { "vi": "Tôi cũng khỏe.", "en": "I am fine too.", "alt": ["I'm fine too.", "I am also fine.", "I'm also fine."] },
+        { "vi": "Rất vui được gặp bạn.", "en": "Nice to meet you.", "alt": ["Very nice to meet you.", "Pleased to meet you."] },
+        { "vi": "Tạm biệt!", "en": "Goodbye!", "alt": ["Bye!"] },
+        { "vi": "Hẹn gặp lại!", "en": "See you again!", "alt": ["See you later!", "See you!"] }
+      ]
+    },
+    {
+      "id": "u1-l02",
+      "title": "Names",
+      "tip": "Tên tôi là … = My name is …. Question words such as gì (what) go at the end of the sentence: Bạn tên là gì? (What is your name?)",
+      "items": [
+        { "vi": "Tên tôi là Minh.", "en": "My name is Minh.", "alt": ["I am Minh.", "I'm Minh."] },
+        { "vi": "Bạn tên là gì?", "en": "What is your name?", "alt": ["What's your name?"] },
+        { "vi": "Tôi là Lan.", "en": "I am Lan.", "alt": ["I'm Lan."] },
+        { "vi": "Anh ấy tên là Nam.", "en": "His name is Nam.", "note": "anh ấy = he (a man a bit older than you)." },
+        { "vi": "Chị ấy tên là Hoa.", "en": "Her name is Hoa.", "note": "chị ấy = she (a woman a bit older than you)." },
+        { "vi": "Đây là bạn tôi.", "en": "This is my friend." },
+        { "vi": "Bạn tôi tên là Tuấn.", "en": "My friend's name is Tuấn.", "alt": ["My friend is called Tuấn.", "My friend's name is Tuan."] },
+        { "vi": "Tôi tên là Mai, còn bạn?", "en": "My name is Mai, and you?", "alt": ["I'm Mai, and you?", "My name is Mai, and yours?"] },
+        { "vi": "Đây là anh Hùng.", "en": "This is Hùng.", "alt": ["This is Hung."] },
+        { "vi": "Tên tôi không phải là Nam.", "en": "My name is not Nam.", "alt": ["My name isn't Nam."], "note": "không phải là = is not (with nouns)." }
+      ]
+    },
+    {
+      "id": "u1-l03",
+      "title": "Nationalities",
+      "tip": "người + country = nationality: người Việt Nam, người Anh, người Mỹ, người Đức. Ask: Bạn là người nước nào? (Which country are you from?)",
+      "items": [
+        { "vi": "Tôi là người Việt Nam.", "en": "I am Vietnamese.", "alt": ["I'm Vietnamese."] },
+        { "vi": "Bạn là người nước nào?", "en": "Which country are you from?", "alt": ["Where are you from?"] },
+        { "vi": "Tôi là người Đức.", "en": "I am German.", "alt": ["I'm German."] },
+        { "vi": "Anh ấy là người Mỹ.", "en": "He is American.", "alt": ["He's American."] },
+        { "vi": "Chị ấy là người Anh.", "en": "She is English.", "alt": ["She's English.", "She is British.", "She's British."] },
+        { "vi": "Bạn có phải là người Pháp không?", "en": "Are you French?" },
+        { "vi": "Không, tôi là người Úc.", "en": "No, I am Australian.", "alt": ["No, I'm Australian."] },
+        { "vi": "Tôi đến từ Đức.", "en": "I come from Germany.", "alt": ["I am from Germany.", "I'm from Germany."] },
+        { "vi": "Bạn ấy đến từ Hà Nội.", "en": "She comes from Hanoi.", "alt": ["He comes from Hanoi.", "She is from Hanoi.", "He is from Hanoi.", "She comes from Hà Nội."], "note": "bạn ấy = he or she (someone your age)." },
+        { "vi": "Chúng tôi là người Việt.", "en": "We are Vietnamese.", "alt": ["We're Vietnamese."] }
+      ]
+    },
+    {
+      "id": "u1-l04",
+      "title": "Languages",
+      "tip": "tiếng + country = language: tiếng Việt, tiếng Anh, tiếng Đức. có … không? turns a sentence into a yes/no question.",
+      "items": [
+        { "vi": "Tôi học tiếng Việt.", "en": "I study Vietnamese.", "alt": ["I learn Vietnamese.", "I am learning Vietnamese.", "I'm learning Vietnamese.", "I am studying Vietnamese.", "I'm studying Vietnamese."] },
+        { "vi": "Bạn có nói tiếng Anh không?", "en": "Do you speak English?" },
+        { "vi": "Có, tôi nói tiếng Anh.", "en": "Yes, I speak English." },
+        { "vi": "Tôi nói một chút tiếng Việt.", "en": "I speak a little Vietnamese.", "alt": ["I speak a bit of Vietnamese."] },
+        { "vi": "Tiếng Việt có khó không?", "en": "Is Vietnamese difficult?", "alt": ["Is Vietnamese hard?"] },
+        { "vi": "Tiếng Việt không khó lắm.", "en": "Vietnamese is not very difficult.", "alt": ["Vietnamese isn't very difficult.", "Vietnamese is not very hard.", "Vietnamese isn't very hard."] },
+        { "vi": "Tôi không hiểu.", "en": "I don't understand.", "alt": ["I do not understand."] },
+        { "vi": "Bạn nói chậm lại được không?", "en": "Can you speak more slowly?", "alt": ["Could you speak more slowly?", "Can you speak slower?", "Could you speak slower?"] },
+        { "vi": "Cái này tiếng Việt gọi là gì?", "en": "What is this called in Vietnamese?", "alt": ["What's this called in Vietnamese?"] },
+        { "vi": "Mẹ tôi nói tiếng Đức.", "en": "My mother speaks German.", "alt": ["My mom speaks German.", "My mum speaks German."] }
+      ]
+    },
+    {
+      "id": "u1-l05",
+      "title": "How you feel",
+      "tip": "Adjectives follow the subject directly, without là: Tôi mệt = I am tired. rất = very (before the word), lắm = very (after it), quá = so / too.",
+      "items": [
+        { "vi": "Tôi mệt.", "en": "I am tired.", "alt": ["I'm tired."] },
+        { "vi": "Hôm nay tôi rất vui.", "en": "Today I am very happy.", "alt": ["I am very happy today.", "I'm very happy today.", "Today I'm very happy."] },
+        { "vi": "Bạn có đói không?", "en": "Are you hungry?" },
+        { "vi": "Tôi đói lắm.", "en": "I am very hungry.", "alt": ["I'm very hungry."] },
+        { "vi": "Anh ấy hơi buồn.", "en": "He is a bit sad.", "alt": ["He's a bit sad.", "He is a little sad.", "He's a little sad."] },
+        { "vi": "Em có khát không?", "en": "Are you thirsty?", "note": "em: to someone younger than you." },
+        { "vi": "Tôi không mệt.", "en": "I am not tired.", "alt": ["I'm not tired."] },
+        { "vi": "Chị ấy bận lắm.", "en": "She is very busy.", "alt": ["She's very busy."] },
+        { "vi": "Hôm nay trời nóng quá!", "en": "It is so hot today!", "alt": ["It's so hot today!", "Today it is so hot!", "It's too hot today!"] },
+        { "vi": "Tôi bình thường.", "en": "I am okay.", "alt": ["I'm okay.", "I'm OK.", "I am OK.", "I'm so-so."], "note": "A common answer to “Bạn khỏe không?” – fine, nothing special." }
+      ]
+    },
+    {
+      "id": "u1-l06",
+      "title": "Jobs",
+      "tip": "Ask about someone's job with Bạn làm nghề gì? (What do you do?). là links two nouns: Tôi là bác sĩ (I am a doctor). ở = at, in.",
+      "items": [
+        { "vi": "Bạn làm nghề gì?", "en": "What do you do?", "alt": ["What is your job?", "What's your job?"] },
+        { "vi": "Tôi là giáo viên.", "en": "I am a teacher.", "alt": ["I'm a teacher."] },
+        { "vi": "Mẹ tôi là bác sĩ.", "en": "My mother is a doctor.", "alt": ["My mom is a doctor.", "My mum is a doctor."] },
+        { "vi": "Anh ấy là kỹ sư.", "en": "He is an engineer.", "alt": ["He's an engineer."] },
+        { "vi": "Tôi là sinh viên.", "en": "I am a student.", "alt": ["I'm a student."], "note": "sinh viên = university student; a school pupil is học sinh." },
+        { "vi": "Chị ấy làm việc ở bệnh viện.", "en": "She works at a hospital.", "alt": ["She works in a hospital.", "She works at the hospital."] },
+        { "vi": "Bố tôi là lái xe.", "en": "My father is a driver.", "alt": ["My dad is a driver."], "note": "bố = father in the North (Southern: ba)." },
+        { "vi": "Bạn làm việc ở đâu?", "en": "Where do you work?" },
+        { "vi": "Tôi làm việc ở văn phòng.", "en": "I work in an office.", "alt": ["I work at an office.", "I work in the office."] },
+        { "vi": "Em gái tôi là học sinh.", "en": "My younger sister is a pupil.", "alt": ["My little sister is a pupil.", "My younger sister is a student.", "My little sister is a student."] }
+      ]
+    },
+    {
+      "id": "u1-l07",
+      "title": "Numbers 1–10",
+      "tip": "một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. Numbers go before the noun: hai người = two people. For animals add con: một con mèo (a cat).",
+      "items": [
+        { "vi": "Một, hai, ba.", "en": "One, two, three." },
+        { "vi": "Tôi có hai anh trai.", "en": "I have two older brothers." },
+        { "vi": "Bốn cộng năm là chín.", "en": "Four plus five is nine.", "alt": ["Four plus five equals nine.", "Four and five is nine."] },
+        { "vi": "Tôi có ba người bạn Việt Nam.", "en": "I have three Vietnamese friends." },
+        { "vi": "Bảy, tám, chín, mười.", "en": "Seven, eight, nine, ten." },
+        { "vi": "Số điện thoại của bạn là gì?", "en": "What is your phone number?", "alt": ["What's your phone number?"] },
+        { "vi": "Cho tôi sáu quả trứng.", "en": "Six eggs, please.", "alt": ["Give me six eggs.", "Give me six eggs, please."], "note": "quả is used for round things like eggs and fruit (Southern: trái)." },
+        { "vi": "Lớp tôi có mười người.", "en": "There are ten people in my class.", "alt": ["My class has ten people."] },
+        { "vi": "Hai cộng hai là bốn.", "en": "Two plus two is four.", "alt": ["Two plus two equals four.", "Two and two is four."] },
+        { "vi": "Tôi có một con mèo.", "en": "I have a cat.", "alt": ["I have one cat."] }
+      ]
+    },
+    {
+      "id": "u1-l08",
+      "title": "Age",
+      "tip": "Bạn bao nhiêu tuổi? = How old are you? For children use mấy (how many, for small numbers): Con mấy tuổi? Tens: hai mươi (20), ba mươi (30); 5 after a ten becomes lăm: hai mươi lăm (25).",
+      "items": [
+        { "vi": "Bạn bao nhiêu tuổi?", "en": "How old are you?" },
+        { "vi": "Tôi hai mươi lăm tuổi.", "en": "I am twenty-five years old.", "alt": ["I'm twenty-five years old.", "I am twenty-five.", "I'm twenty-five.", "I am 25 years old.", "I'm 25 years old.", "I am 25.", "I'm 25."] },
+        { "vi": "Con trai chị mấy tuổi?", "en": "How old is your son?" },
+        { "vi": "Con trai tôi năm tuổi.", "en": "My son is five years old.", "alt": ["My son is five."] },
+        { "vi": "Bà tôi tám mươi tuổi.", "en": "My grandmother is eighty years old.", "alt": ["My grandmother is eighty.", "My grandma is eighty years old.", "My grandma is eighty."] },
+        { "vi": "Anh ấy ba mươi tuổi.", "en": "He is thirty years old.", "alt": ["He's thirty years old.", "He is thirty.", "He's thirty."] },
+        { "vi": "Tôi trẻ hơn bạn.", "en": "I am younger than you.", "alt": ["I'm younger than you."] },
+        { "vi": "Năm nay tôi bốn mươi tuổi.", "en": "This year I am forty.", "alt": ["I am forty this year.", "I'm forty this year.", "This year I am forty years old.", "This year I'm forty."] },
+        { "vi": "Em gái tôi mười tám tuổi.", "en": "My younger sister is eighteen.", "alt": ["My little sister is eighteen.", "My younger sister is eighteen years old.", "My little sister is eighteen years old."] },
+        { "vi": "Ông ấy bao nhiêu tuổi?", "en": "How old is he?", "note": "ông: for an old man or a grandfather." }
+      ]
+    },
+    {
+      "id": "u1-l09",
+      "title": "Polite phrases",
+      "tip": "In the North, ạ at the end of a sentence makes it polite, especially towards older people. Polite yes: vâng or dạ.",
+      "items": [
+        { "vi": "Cảm ơn bạn.", "en": "Thank you.", "alt": ["Thanks.", "Thank you, friend."] },
+        { "vi": "Cảm ơn anh nhiều.", "en": "Thank you very much.", "alt": ["Thanks a lot.", "Thank you so much."] },
+        { "vi": "Không có gì.", "en": "You're welcome.", "alt": ["You are welcome.", "No problem.", "It's nothing."] },
+        { "vi": "Xin lỗi.", "en": "Sorry.", "alt": ["I'm sorry.", "Excuse me.", "I am sorry."] },
+        { "vi": "Không sao đâu.", "en": "It's okay.", "alt": ["It is okay.", "It's OK.", "It doesn't matter.", "Never mind."] },
+        { "vi": "Vâng ạ.", "en": "Yes.", "alt": ["Yes, sir.", "Yes, ma'am."], "note": "A polite yes. ạ adds respect." },
+        { "vi": "Cháu chào bác ạ.", "en": "Hello, uncle.", "alt": ["Hello, auntie.", "Hello, aunt.", "Hello, sir.", "Hello, madam."], "note": "A polite greeting from a younger person (cháu) to someone older than their parents (bác)." },
+        { "vi": "Xin mời vào.", "en": "Please come in.", "alt": ["Come in, please."] },
+        { "vi": "Cho tôi hỏi một chút.", "en": "Can I ask you something?", "alt": ["May I ask something?", "Can I ask something?", "May I ask you something?", "Excuse me, can I ask something?"] },
+        { "vi": "Dạ, em hiểu rồi.", "en": "Yes, I understand now.", "alt": ["Yes, I understand.", "Yes, I've understood.", "Yes, I see."], "note": "dạ: a very common polite yes in Hanoi." }
+      ]
+    },
+    {
+      "id": "u1-l10",
+      "title": "Questions",
+      "tip": "Question words stay where the answer would be: ai (who), gì (what), đâu (where). có … không? asks yes or no; answer có (yes) or không (no).",
+      "items": [
+        { "vi": "Đây là ai?", "en": "Who is this?" },
+        { "vi": "Đây là mẹ tôi.", "en": "This is my mother.", "alt": ["This is my mom.", "This is my mum."] },
+        { "vi": "Bạn sống ở đâu?", "en": "Where do you live?" },
+        { "vi": "Tôi sống ở Hà Nội.", "en": "I live in Hanoi.", "alt": ["I live in Hà Nội."] },
+        { "vi": "Bạn có khỏe không?", "en": "Are you well?", "alt": ["How are you?", "Are you healthy?"] },
+        { "vi": "Cái này là cái gì?", "en": "What is this?", "alt": ["What's this?"] },
+        { "vi": "Đó là quyển sách.", "en": "That is a book.", "alt": ["That's a book.", "It is a book.", "It's a book."], "note": "quyển is the classifier for books." },
+        { "vi": "Bạn có thích Việt Nam không?", "en": "Do you like Vietnam?" },
+        { "vi": "Có, tôi rất thích.", "en": "Yes, I like it very much.", "alt": ["Yes, I really like it.", "Yes, I like it a lot."] },
+        { "vi": "Hẹn gặp lại bạn ngày mai!", "en": "See you tomorrow!", "alt": ["See you again tomorrow!"] }
+      ]
+    }
+  ]
+}

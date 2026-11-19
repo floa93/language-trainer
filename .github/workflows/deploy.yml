@@ -1,0 +1,91 @@
+name: Test & deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  check:
+    name: Data, syntax & unit tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Validate course data
+        run: node scripts/validate-data.mjs
+      - name: Check JavaScript syntax
+        run: for f in $(find js tests scripts -name '*.js' -o -name '*.mjs'); do node --check "$f" || exit 1; done
+      - name: Unit tests
+        run: npm run test:unit
+
+  e2e:
+    name: Browser tests (Playwright)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Run browser tests
+        run: npm run test:e2e
+      - name: Upload test report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 14
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: [check, e2e]
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: Collect site files
+        run: |
+          mkdir _site
+          cp -r index.html css js data _site/
+      - name: Version CSS/JS URLs (cache busting)
+        # GitHub Pages can't be told to skip caching, so phones keep old CSS/JS.
+        # Appending ?v=<commit> gives every deploy fresh URLs. All imports of a
+        # module get the same suffix, so each module still loads only once.
+        run: |
+          V="${GITHUB_SHA::8}"
+          sed -i -E "s#(href=\"css/style\.css)\"#\1?v=$V\"#; s#(src=\"js/app\.js)\"#\1?v=$V\"#" _site/index.html
+          find _site/js -name '*.js' -exec sed -i -E "s#(from '\.\.?/[^']+\.js)'#\1?v=$V'#g" {} +
+          grep -q "style.css?v=$V" _site/index.html && grep -q "app.js?v=$V" _site/index.html
+          ! grep -rnE "from '\.\.?/[^']+\.js'" _site/js
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

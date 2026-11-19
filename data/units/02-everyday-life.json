@@ -1,0 +1,177 @@
+{
+  "id": "u2",
+  "title": "Everyday life",
+  "description": "Family, food and drinks, prices, time, and finding your way around the city.",
+  "lessons": [
+    {
+      "id": "u2-l01",
+      "title": "Family",
+      "tip": "Northern words: bố (father), mẹ (mother). anh / chị = older brother / sister, em = younger sibling; add trai (male) or gái (female): em trai, em gái.",
+      "items": [
+        { "vi": "Đây là gia đình tôi.", "en": "This is my family." },
+        { "vi": "Bố mẹ tôi sống ở Hải Phòng.", "en": "My parents live in Hải Phòng.", "alt": ["My parents live in Hai Phong."] },
+        { "vi": "Tôi có một anh trai và một em gái.", "en": "I have an older brother and a younger sister.", "alt": ["I have one older brother and one younger sister.", "I have a big brother and a little sister."] },
+        { "vi": "Chị gái tôi đã lấy chồng.", "en": "My older sister is married.", "alt": ["My big sister is married.", "My older sister got married."], "note": "lấy chồng = (a woman) gets married; lấy vợ = (a man) gets married." },
+        { "vi": "Bạn có anh chị em không?", "en": "Do you have siblings?", "alt": ["Do you have any siblings?", "Do you have brothers and sisters?", "Do you have any brothers or sisters?"] },
+        { "vi": "Ông bà tôi sống ở quê.", "en": "My grandparents live in the countryside.", "alt": ["My grandparents live in the village.", "My grandparents live in their hometown."], "note": "quê = home village, hometown, the countryside." },
+        { "vi": "Con gái tôi rất thông minh.", "en": "My daughter is very smart.", "alt": ["My daughter is very clever.", "My daughter is very intelligent."] },
+        { "vi": "Anh có vợ chưa?", "en": "Are you married?", "alt": ["Are you married yet?", "Do you have a wife yet?"], "note": "Literally “Do you have a wife yet?” – a very common question. Answers: Tôi có vợ rồi / Tôi chưa có vợ." },
+        { "vi": "Tôi chưa có con.", "en": "I don't have children yet.", "alt": ["I do not have children yet.", "I have no children yet.", "I don't have any children yet."] },
+        { "vi": "Gia đình bạn có mấy người?", "en": "How many people are in your family?", "alt": ["How many people are there in your family?"] }
+      ]
+    },
+    {
+      "id": "u2-l02",
+      "title": "Drinks",
+      "tip": "Cho tôi … = … please (when ordering). Hanoi favourites: cà phê sữa đá (iced milk coffee), trà đá (iced tea), cà phê trứng (egg coffee), bia hơi (fresh draught beer). Northern: cốc = glass, cup.",
+      "items": [
+        { "vi": "Cho tôi một cà phê sữa đá.", "en": "An iced milk coffee, please.", "alt": ["Give me an iced milk coffee.", "One iced milk coffee, please.", "Give me one iced milk coffee."] },
+        { "vi": "Bạn muốn uống gì?", "en": "What do you want to drink?", "alt": ["What would you like to drink?"] },
+        { "vi": "Tôi muốn uống trà đá.", "en": "I want to drink iced tea.", "alt": ["I would like iced tea.", "I'd like iced tea.", "I want iced tea.", "I would like to drink iced tea."] },
+        { "vi": "Tôi không uống bia.", "en": "I don't drink beer.", "alt": ["I do not drink beer."] },
+        { "vi": "Cho tôi một cốc nước.", "en": "A glass of water, please.", "alt": ["Give me a glass of water.", "Give me a glass of water, please."] },
+        { "vi": "Cà phê ở đây rất ngon.", "en": "The coffee here is very good.", "alt": ["The coffee here is very delicious.", "Coffee here is very good.", "The coffee here is really good."] },
+        { "vi": "Bạn đã thử cà phê trứng chưa?", "en": "Have you tried egg coffee yet?", "alt": ["Have you tried egg coffee?"] },
+        { "vi": "Không đường, cảm ơn.", "en": "No sugar, thank you.", "alt": ["No sugar, thanks."] },
+        { "vi": "Tôi thích uống nước cam.", "en": "I like drinking orange juice.", "alt": ["I like to drink orange juice.", "I like orange juice."] },
+        { "vi": "Một cốc bia hơi nhé!", "en": "A glass of draught beer, please!", "alt": ["One draught beer, please!", "A draft beer, please!", "A glass of draft beer, please!"], "note": "nhé at the end makes a request softer and friendlier." }
+      ]
+    },
+    {
+      "id": "u2-l03",
+      "title": "Food",
+      "tip": "ăn = to eat, ngon = tasty. Northern dishes: phở, bún chả, bánh mì, nem rán (fried spring rolls). chưa? at the end asks “… yet?”; answer rồi (already) or chưa (not yet).",
+      "items": [
+        { "vi": "Tôi thích ăn phở.", "en": "I like eating phở.", "alt": ["I like to eat phở.", "I like phở.", "I like eating pho.", "I like pho.", "I like to eat pho."] },
+        { "vi": "Bún chả rất ngon.", "en": "Bún chả is very tasty.", "alt": ["Bún chả is very delicious.", "Bun cha is very tasty.", "Bún chả is delicious.", "Bun cha is delicious."] },
+        { "vi": "Bạn ăn sáng chưa?", "en": "Have you had breakfast yet?", "alt": ["Have you eaten breakfast yet?", "Did you have breakfast?", "Have you had breakfast?"] },
+        { "vi": "Tôi ăn rồi.", "en": "I have eaten already.", "alt": ["I've already eaten.", "I already ate.", "I have already eaten."] },
+        { "vi": "Tôi không ăn thịt.", "en": "I don't eat meat.", "alt": ["I do not eat meat."] },
+        { "vi": "Món này có cay không?", "en": "Is this dish spicy?", "alt": ["Is this spicy?"] },
+        { "vi": "Tôi ăn chay.", "en": "I am vegetarian.", "alt": ["I'm vegetarian.", "I eat vegetarian."] },
+        { "vi": "Nem rán ngon quá!", "en": "The fried spring rolls are so good!", "alt": ["The spring rolls are so good!", "The fried spring rolls are so tasty!", "The fried spring rolls are so delicious!"], "note": "nem rán is the Northern name (Southern: chả giò)." },
+        { "vi": "Tôi muốn ăn cơm với gà.", "en": "I want to eat rice with chicken.", "alt": ["I want rice with chicken.", "I would like rice with chicken.", "I'd like rice with chicken."] },
+        { "vi": "Mẹ tôi nấu ăn rất giỏi.", "en": "My mother cooks very well.", "alt": ["My mom cooks very well.", "My mother is a very good cook.", "My mum cooks very well."] }
+      ]
+    },
+    {
+      "id": "u2-l04",
+      "title": "At the restaurant",
+      "tip": "Call the staff with em ơi! (to someone younger), or anh ơi / chị ơi. Ask for the bill with Tính tiền! Northern: bát = bowl, đũa = chopsticks.",
+      "items": [
+        { "vi": "Em ơi, cho anh xem thực đơn.", "en": "Excuse me, can I see the menu?", "alt": ["Excuse me, may I see the menu?", "Excuse me, let me see the menu."], "note": "ơi calls someone. Here a man (anh) talks to a younger waiter (em)." },
+        { "vi": "Cho tôi hai bát phở bò.", "en": "Two bowls of beef phở, please.", "alt": ["Give me two bowls of beef phở.", "Two bowls of beef pho, please.", "Give me two bowls of beef pho."] },
+        { "vi": "Bàn này còn trống không?", "en": "Is this table free?", "alt": ["Is this table still free?", "Is this table available?"] },
+        { "vi": "Chúng tôi có bốn người.", "en": "There are four of us.", "alt": ["We are four people.", "We have four people."] },
+        { "vi": "Món này là món gì?", "en": "What dish is this?", "alt": ["What is this dish?"] },
+        { "vi": "Cho tôi thêm một đôi đũa.", "en": "Another pair of chopsticks, please.", "alt": ["Give me another pair of chopsticks.", "One more pair of chopsticks, please."] },
+        { "vi": "Đừng cho rau mùi nhé.", "en": "No coriander, please.", "alt": ["No cilantro, please.", "Don't add coriander, please.", "Don't put coriander in, please."] },
+        { "vi": "Em ơi, tính tiền!", "en": "The bill, please!", "alt": ["Check, please!", "Bill, please!", "The check, please!"] },
+        { "vi": "Tất cả bao nhiêu tiền?", "en": "How much is it altogether?", "alt": ["How much is it in total?", "How much is everything?", "How much altogether?"] },
+        { "vi": "Ngon lắm, cảm ơn em!", "en": "It was delicious, thank you!", "alt": ["Very tasty, thank you!", "Very delicious, thank you!", "It was very good, thank you!"] }
+      ]
+    },
+    {
+      "id": "u2-l05",
+      "title": "Prices",
+      "tip": "Bao nhiêu tiền? = How much? nghìn = thousand, trăm = hundred. Prices in đồng are said in thousands: ba mươi nghìn (30,000). Northern: cân = kilo. Too pricey? Đắt quá!",
+      "items": [
+        { "vi": "Cái này bao nhiêu tiền?", "en": "How much is this?", "alt": ["How much does this cost?"] },
+        { "vi": "Ba mươi nghìn.", "en": "Thirty thousand.", "alt": ["30,000."] },
+        { "vi": "Đắt quá!", "en": "Too expensive!", "alt": ["That's too expensive!", "So expensive!", "It's too expensive!"] },
+        { "vi": "Bớt cho tôi một chút được không?", "en": "Can you lower the price a bit?", "alt": ["Can you give me a small discount?", "Can you make it a bit cheaper?", "Could you lower the price a little?"] },
+        { "vi": "Năm mươi nghìn một cân.", "en": "Fifty thousand a kilo.", "alt": ["Fifty thousand per kilo.", "50,000 a kilo."] },
+        { "vi": "Tôi mua hai cái.", "en": "I will buy two.", "alt": ["I'll buy two.", "I buy two."] },
+        { "vi": "Bạn có tiền lẻ không?", "en": "Do you have small change?", "alt": ["Do you have change?", "Do you have any small change?", "Do you have any change?"] },
+        { "vi": "Hai quả xoài giá bao nhiêu?", "en": "How much are two mangoes?", "alt": ["How much do two mangoes cost?"] },
+        { "vi": "Một trăm nghìn được không?", "en": "Is one hundred thousand okay?", "alt": ["Is a hundred thousand okay?", "How about one hundred thousand?", "Is one hundred thousand OK?", "Is 100,000 okay?"] },
+        { "vi": "Tôi trả bằng thẻ được không?", "en": "Can I pay by card?", "alt": ["Can I pay with a card?", "May I pay by card?"] }
+      ]
+    },
+    {
+      "id": "u2-l06",
+      "title": "Time and days",
+      "tip": "Mấy giờ? = What time? hôm nay (today), ngày mai (tomorrow), hôm qua (yesterday). Weekdays are numbered: thứ hai (Monday) … thứ bảy (Saturday), chủ nhật (Sunday).",
+      "items": [
+        { "vi": "Bây giờ là mấy giờ?", "en": "What time is it now?", "alt": ["What time is it?"] },
+        { "vi": "Bây giờ là ba giờ chiều.", "en": "It is three in the afternoon now.", "alt": ["It's three in the afternoon now.", "It is 3 pm now.", "Now it is three in the afternoon.", "It's three in the afternoon."] },
+        { "vi": "Hôm nay là thứ mấy?", "en": "What day is it today?", "alt": ["What day is today?"] },
+        { "vi": "Hôm nay là thứ hai.", "en": "Today is Monday.", "alt": ["It's Monday today.", "It is Monday today."] },
+        { "vi": "Ngày mai tôi đi làm.", "en": "Tomorrow I go to work.", "alt": ["I go to work tomorrow.", "I will go to work tomorrow.", "Tomorrow I will go to work.", "I'm going to work tomorrow.", "I am going to work tomorrow."] },
+        { "vi": "Hôm qua tôi ở nhà.", "en": "Yesterday I was at home.", "alt": ["I was at home yesterday.", "I stayed at home yesterday.", "Yesterday I stayed at home.", "I stayed home yesterday."] },
+        { "vi": "Chủ nhật bạn có rảnh không?", "en": "Are you free on Sunday?", "alt": ["Are you free this Sunday?"] },
+        { "vi": "Tôi dậy lúc sáu giờ sáng.", "en": "I get up at six in the morning.", "alt": ["I wake up at six in the morning.", "I get up at 6 am.", "I wake up at 6 am."] },
+        { "vi": "Bảy giờ tối gặp nhé!", "en": "See you at seven in the evening!", "alt": ["Let's meet at seven in the evening!", "See you at 7 pm!", "Let's meet at seven pm!"] },
+        { "vi": "Tuần sau tôi đi Đà Nẵng.", "en": "Next week I am going to Đà Nẵng.", "alt": ["I am going to Đà Nẵng next week.", "I'm going to Đà Nẵng next week.", "Next week I'm going to Da Nang.", "I'm going to Da Nang next week.", "Next week I go to Đà Nẵng.", "Next week I'm going to Đà Nẵng."] }
+      ]
+    },
+    {
+      "id": "u2-l07",
+      "title": "Places in the city",
+      "tip": "ở = at, in. đi + place = go to a place, no word for “to” needed: Tôi đi chợ = I go to the market. đang = right now.",
+      "items": [
+        { "vi": "Tôi đi chợ.", "en": "I go to the market.", "alt": ["I am going to the market.", "I'm going to the market."] },
+        { "vi": "Bạn đang ở đâu?", "en": "Where are you right now?", "alt": ["Where are you now?", "Where are you?"] },
+        { "vi": "Tôi đang ở quán cà phê.", "en": "I am at a café.", "alt": ["I'm at a café.", "I am at the café.", "I'm at the café.", "I am at a coffee shop.", "I'm at a coffee shop.", "I am at a cafe.", "I'm at a cafe."] },
+        { "vi": "Nhà tôi ở gần hồ Hoàn Kiếm.", "en": "My house is near Hoàn Kiếm Lake.", "alt": ["My home is near Hoàn Kiếm Lake.", "My house is near Hoan Kiem Lake.", "My home is near Hoan Kiem Lake."] },
+        { "vi": "Bệnh viện ở đâu?", "en": "Where is the hospital?" },
+        { "vi": "Gần đây có nhà vệ sinh không?", "en": "Is there a toilet near here?", "alt": ["Is there a toilet nearby?", "Is there a restroom near here?", "Is there a restroom nearby?", "Is there a bathroom nearby?"] },
+        { "vi": "Ngân hàng ở bên cạnh bưu điện.", "en": "The bank is next to the post office.", "alt": ["The bank is beside the post office."] },
+        { "vi": "Tôi muốn đi siêu thị.", "en": "I want to go to the supermarket.", "alt": ["I would like to go to the supermarket.", "I'd like to go to the supermarket."] },
+        { "vi": "Trường học ở đối diện công viên.", "en": "The school is opposite the park.", "alt": ["The school is across from the park."] },
+        { "vi": "Khách sạn này rất đẹp.", "en": "This hotel is very beautiful.", "alt": ["This hotel is very nice.", "This hotel is beautiful."] }
+      ]
+    },
+    {
+      "id": "u2-l08",
+      "title": "Directions",
+      "tip": "rẽ trái = turn left, rẽ phải = turn right, đi thẳng = go straight (Northern rẽ; Southern quẹo). ngã tư = crossroads. … thì … = when …, then ….",
+      "items": [
+        { "vi": "Đi thẳng rồi rẽ trái.", "en": "Go straight, then turn left.", "alt": ["Go straight and then turn left.", "Go straight and turn left.", "Go straight ahead, then turn left."] },
+        { "vi": "Đến ngã tư thì rẽ phải.", "en": "Turn right at the intersection.", "alt": ["Turn right at the crossroads.", "At the intersection, turn right.", "At the crossroads, turn right."] },
+        { "vi": "Xin lỗi, ga Hà Nội ở đâu?", "en": "Excuse me, where is Hanoi Station?", "alt": ["Excuse me, where is Hà Nội Station?", "Excuse me, where is Hanoi railway station?", "Sorry, where is Hanoi Station?"] },
+        { "vi": "Có xa không?", "en": "Is it far?" },
+        { "vi": "Không xa lắm, chỉ năm phút đi bộ.", "en": "Not very far, just a five-minute walk.", "alt": ["Not very far, only five minutes on foot.", "Not too far, just five minutes walking.", "Not very far, only a five-minute walk."] },
+        { "vi": "Nó ở bên trái.", "en": "It is on the left.", "alt": ["It's on the left."] },
+        { "vi": "Hiệu thuốc ở bên phải đường.", "en": "The pharmacy is on the right side of the street.", "alt": ["The pharmacy is on the right of the street.", "The pharmacy is on the right side of the road."], "note": "hiệu thuốc = pharmacy in the North (Southern: nhà thuốc)." },
+        { "vi": "Bạn có thể chỉ đường cho tôi không?", "en": "Can you show me the way?", "alt": ["Could you show me the way?", "Can you give me directions?", "Could you give me directions?"] },
+        { "vi": "Tôi bị lạc đường.", "en": "I am lost.", "alt": ["I'm lost.", "I got lost.", "I have lost my way."] },
+        { "vi": "Đi qua cầu rồi đi thẳng.", "en": "Cross the bridge, then go straight.", "alt": ["Go over the bridge and then go straight.", "Cross the bridge and go straight.", "Cross the bridge and then go straight."] }
+      ]
+    },
+    {
+      "id": "u2-l09",
+      "title": "Transport",
+      "tip": "đi + vehicle = travel by: đi xe máy (by motorbike), đi xe buýt (by bus), đi tàu (by train), đi máy bay (by plane), đi bộ (on foot). bằng = by, with.",
+      "items": [
+        { "vi": "Tôi đi làm bằng xe máy.", "en": "I go to work by motorbike.", "alt": ["I get to work by motorbike.", "I go to work by scooter.", "I go to work by motorcycle."] },
+        { "vi": "Bạn đi bộ à?", "en": "Are you walking?", "alt": ["You're walking?", "Are you going on foot?", "You are walking?"], "note": "à at the end: a surprised question to check something." },
+        { "vi": "Xe buýt số mười đi đâu?", "en": "Where does bus number ten go?", "alt": ["Where does the number ten bus go?", "Where does bus 10 go?", "Where does the number 10 bus go?"] },
+        { "vi": "Tôi muốn gọi taxi.", "en": "I want to call a taxi.", "alt": ["I would like to call a taxi.", "I'd like to call a taxi.", "I want to get a taxi."] },
+        { "vi": "Cho tôi đến sân bay Nội Bài.", "en": "Take me to Nội Bài Airport, please.", "alt": ["Take me to Noi Bai Airport, please.", "To Nội Bài Airport, please.", "Take me to Nội Bài Airport.", "To Noi Bai Airport, please."] },
+        { "vi": "Tàu đi Sài Gòn mấy giờ chạy?", "en": "What time does the train to Saigon leave?", "alt": ["When does the train to Saigon leave?", "What time does the train to Sài Gòn leave?", "What time does the train to Saigon depart?"] },
+        { "vi": "Tôi đi máy bay đến Huế.", "en": "I am flying to Huế.", "alt": ["I'm flying to Huế.", "I fly to Huế.", "I go to Huế by plane.", "I'm flying to Hue.", "I fly to Hue."] },
+        { "vi": "Dừng ở đây nhé!", "en": "Stop here, please!", "alt": ["Please stop here!", "Stop here!"] },
+        { "vi": "Đường này hay bị tắc lắm.", "en": "This road often has traffic jams.", "alt": ["This street is often jammed.", "This road is often congested.", "There are often traffic jams on this road."], "note": "tắc (đường) = traffic jam in the North (Southern: kẹt xe). hay = often." },
+        { "vi": "Bạn có xe đạp không?", "en": "Do you have a bicycle?", "alt": ["Do you have a bike?"] }
+      ]
+    },
+    {
+      "id": "u2-l10",
+      "title": "Weather",
+      "tip": "trời = sky, weather: trời nóng (it's hot), trời lạnh (it's cold), trời mưa (it's raining). Hanoi has four seasons: mùa xuân, mùa hè, mùa thu, mùa đông.",
+      "items": [
+        { "vi": "Hôm nay trời đẹp quá!", "en": "The weather is so nice today!", "alt": ["The weather is so beautiful today!", "Today the weather is so nice!", "What nice weather today!"] },
+        { "vi": "Trời đang mưa.", "en": "It is raining.", "alt": ["It's raining."] },
+        { "vi": "Mùa đông ở Hà Nội rất lạnh.", "en": "Winter in Hanoi is very cold.", "alt": ["Winter in Hà Nội is very cold.", "In Hanoi winter is very cold.", "Winters in Hanoi are very cold."] },
+        { "vi": "Ngày mai trời có mưa không?", "en": "Will it rain tomorrow?", "alt": ["Is it going to rain tomorrow?", "Does it rain tomorrow?"] },
+        { "vi": "Mùa hè ở đây nóng lắm.", "en": "Summer here is very hot.", "alt": ["Summer is very hot here.", "It is very hot here in summer.", "It's very hot here in summer."] },
+        { "vi": "Tôi thích mùa thu nhất.", "en": "I like autumn the most.", "alt": ["I like autumn best.", "I like fall the most.", "I like fall best."] },
+        { "vi": "Hôm nay trời nồm.", "en": "It is humid and damp today.", "alt": ["It's humid and damp today.", "It's damp today.", "Today it is humid.", "It is damp today."], "note": "nồm: the damp, misty weather of a Hanoi spring, when walls and floors get wet." },
+        { "vi": "Bạn nhớ mang ô nhé.", "en": "Remember to bring an umbrella.", "alt": ["Don't forget to bring an umbrella.", "Remember to take an umbrella.", "Don't forget your umbrella."], "note": "ô = umbrella in the North (Southern: dù)." },
+        { "vi": "Trời lạnh, mặc áo khoác vào!", "en": "It's cold, put on a jacket!", "alt": ["It is cold, put on a jacket!", "It's cold, put a jacket on!", "It's cold, put on your jacket!", "It's cold, put on a coat!"] },
+        { "vi": "Hôm nay ba mươi lăm độ.", "en": "It is thirty-five degrees today.", "alt": ["It's thirty-five degrees today.", "Today it is thirty-five degrees.", "It's 35 degrees today."] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "language": "Vietnamese",
+  "lang": "vi-VN",
+  "dialect": "Northern (Hà Nội)",
+  "units": [
+    "units/01-basics.json",
+    "units/02-everyday-life.json",
+    "units/03-out-and-about.json"
+  ]
+}

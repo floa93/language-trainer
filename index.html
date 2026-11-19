@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#ffffff">
+  <script>
+    // Apply the saved theme before the page paints (see js/theme.js).
+    try {
+      if (localStorage.getItem('lt.theme') === 'dark') {
+        document.documentElement.dataset.theme = 'dark';
+        document.querySelector('meta[name="theme-color"]').content = '#0c1616';
+      }
+    } catch (e) {}
+  </script>
+  <meta name="description" content="Learn Vietnamese (Northern / Hanoi) step by step: stages, lessons, listening and speaking practice">
+  <title>Language Trainer</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%228%22 fill=%22%23da251d%22/%3E%3Cpath fill=%22%23ffcd00%22 d=%22M16 6l2.6 7.6h8l-6.5 4.7 2.5 7.7-6.6-4.8-6.6 4.8 2.5-7.7-6.5-4.7h8z%22/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <span class="brand" aria-hidden="true">🇻🇳</span>
+    <h1 class="topbar-title" id="page-title">Learn</h1>
+    <span class="topbar-stats" id="topbar-stats"></span>
+    <a class="topbar-action" href="#/settings" data-tab="settings" aria-label="Backup and settings" title="Backup and settings"><span class="tab-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h10M18 6h2M4 12h2M10 12h10M4 18h10M18 18h2"/><circle cx="16" cy="6" r="2"/><circle cx="8" cy="12" r="2"/><circle cx="16" cy="18" r="2"/></svg></span></a>
+  </header>
+
+  <main id="app" tabindex="-1">
+    <p class="muted center">Loading…</p>
+  </main>
+
+  <nav class="tabbar" aria-label="Main">
+    <a href="#/" data-tab="learn"><span class="tab-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11l8-7 8 7v8a1 1 0 0 1-1 1h-4v-6h-6v6H5a1 1 0 0 1-1-1z"/></svg></span><span>Learn</span></a>
+    <a href="#/practice" data-tab="practice"><span class="tab-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12a8 8 0 0 1 14-5.3M20 12a8 8 0 0 1-14 5.3"/><path d="M18 3v4h-4M6 21v-4h4"/></svg></span><span>Practice</span></a>
+    <a href="#/phrases" data-tab="phrases"><span class="tab-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5h14v15H5zM9 9h6M9 13h6"/></svg></span><span>Phrases</span></a>
+  </nav>
+
+  <noscript><p class="center">This app needs JavaScript enabled.</p></noscript>
+</body>
+</html>

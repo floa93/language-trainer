@@ -1,0 +1,177 @@
+{
+  "id": "u3",
+  "title": "Out and about",
+  "description": "Your day, hobbies, shopping, home, health, travel and making plans with friends.",
+  "lessons": [
+    {
+      "id": "u3-l01",
+      "title": "Daily routine",
+      "tip": "Time words usually come first: Buổi sáng tôi uống cà phê (In the morning I drink coffee). thường = usually, đang = right now, lúc = at (a time).",
+      "items": [
+        { "vi": "Buổi sáng tôi thường uống cà phê.", "en": "In the morning I usually drink coffee.", "alt": ["I usually drink coffee in the morning."] },
+        { "vi": "Tôi đi làm lúc tám giờ.", "en": "I go to work at eight o'clock.", "alt": ["I go to work at eight.", "I go to work at 8 o'clock.", "I leave for work at eight."] },
+        { "vi": "Buổi trưa tôi ăn cơm với đồng nghiệp.", "en": "At noon I eat with my colleagues.", "alt": ["I have lunch with my colleagues.", "At noon I eat rice with my colleagues.", "I eat lunch with my colleagues.", "At lunchtime I eat with my colleagues."] },
+        { "vi": "Tôi đang nấu cơm.", "en": "I am cooking.", "alt": ["I'm cooking.", "I am cooking rice.", "I'm cooking rice.", "I'm cooking dinner.", "I am making dinner.", "I'm making dinner."], "note": "nấu cơm: literally “cook rice”, i.e. cook a meal." },
+        { "vi": "Buổi tối tôi xem phim.", "en": "In the evening I watch movies.", "alt": ["I watch movies in the evening.", "In the evening I watch a movie.", "I watch films in the evening.", "In the evening I watch films."] },
+        { "vi": "Tôi đi ngủ lúc mười một giờ.", "en": "I go to bed at eleven o'clock.", "alt": ["I go to sleep at eleven.", "I go to bed at eleven.", "I go to sleep at eleven o'clock."] },
+        { "vi": "Mỗi sáng tôi tập thể dục.", "en": "I exercise every morning.", "alt": ["Every morning I exercise.", "I work out every morning.", "Every morning I work out."] },
+        { "vi": "Tôi tắm rồi đánh răng.", "en": "I shower and then brush my teeth.", "alt": ["I take a shower, then brush my teeth.", "I shower, then brush my teeth.", "I take a shower and then brush my teeth."] },
+        { "vi": "Chủ nhật tôi thường ngủ dậy muộn.", "en": "On Sundays I usually get up late.", "alt": ["I usually get up late on Sundays.", "On Sunday I usually wake up late.", "I usually wake up late on Sundays."], "note": "muộn = late in the North (Southern: trễ)." },
+        { "vi": "Hôm nay tôi bận cả ngày.", "en": "Today I am busy all day.", "alt": ["I am busy all day today.", "I'm busy all day today.", "Today I'm busy all day."] }
+      ]
+    },
+    {
+      "id": "u3-l02",
+      "title": "Hobbies",
+      "tip": "thích + verb = like doing something: Tôi thích đọc sách. hay = often. Sở thích của bạn là gì? = What are your hobbies?",
+      "items": [
+        { "vi": "Sở thích của bạn là gì?", "en": "What are your hobbies?", "alt": ["What is your hobby?", "What's your hobby?"] },
+        { "vi": "Tôi thích đọc sách.", "en": "I like reading books.", "alt": ["I like to read books.", "I like reading."] },
+        { "vi": "Anh ấy chơi bóng đá rất giỏi.", "en": "He plays football very well.", "alt": ["He plays soccer very well.", "He is very good at football.", "He's very good at football."] },
+        { "vi": "Bạn có thích nghe nhạc không?", "en": "Do you like listening to music?", "alt": ["Do you like to listen to music?", "Do you like music?"] },
+        { "vi": "Cuối tuần tôi hay đi bơi.", "en": "On weekends I often go swimming.", "alt": ["I often go swimming on weekends.", "At the weekend I often go swimming.", "I often go swimming at the weekend."] },
+        { "vi": "Tôi không biết hát.", "en": "I can't sing.", "alt": ["I cannot sing.", "I don't know how to sing."], "note": "biết + verb = know how to, can." },
+        { "vi": "Chị ấy thích nấu ăn.", "en": "She likes cooking.", "alt": ["She likes to cook."] },
+        { "vi": "Chúng mình đi xem phim nhé?", "en": "Shall we go to the movies?", "alt": ["Shall we go see a movie?", "Shall we go to the cinema?", "Let's go to the movies?"] },
+        { "vi": "Tôi đang học vẽ.", "en": "I am learning to draw.", "alt": ["I'm learning to draw.", "I am learning to paint.", "I'm learning to paint."] },
+        { "vi": "Bạn có hay đi du lịch không?", "en": "Do you travel often?", "alt": ["Do you often travel?"] }
+      ]
+    },
+    {
+      "id": "u3-l03",
+      "title": "Shopping",
+      "tip": "mặc = wear (clothes), đi = wear (shoes), đội = wear (a hat). mặc thử = try on. Northern: cỡ = size, mũ = hat.",
+      "items": [
+        { "vi": "Tôi muốn mua một cái áo sơ mi.", "en": "I want to buy a shirt.", "alt": ["I would like to buy a shirt.", "I'd like to buy a shirt."] },
+        { "vi": "Tôi mặc thử được không?", "en": "Can I try it on?", "alt": ["May I try it on?"] },
+        { "vi": "Cái áo này hơi chật.", "en": "This shirt is a bit tight.", "alt": ["This top is a bit tight.", "This shirt is a little tight."] },
+        { "vi": "Có cỡ to hơn không?", "en": "Is there a bigger size?", "alt": ["Do you have a bigger size?", "Do you have a larger size?", "Is there a larger size?"] },
+        { "vi": "Đôi giày này rất đẹp.", "en": "These shoes are very beautiful.", "alt": ["This pair of shoes is very beautiful.", "These shoes are very nice."] },
+        { "vi": "Cửa hàng mở cửa đến mấy giờ?", "en": "Until what time is the shop open?", "alt": ["What time does the shop close?", "How late is the shop open?", "Until when is the store open?", "Until what time is the store open?"] },
+        { "vi": "Tôi chỉ xem thôi.", "en": "I'm just looking.", "alt": ["I am just looking.", "I'm only looking."] },
+        { "vi": "Tôi lấy cái này.", "en": "I'll take this one.", "alt": ["I will take this one.", "I'll take this.", "I will take this."] },
+        { "vi": "Bạn có thể gói lại cho tôi không?", "en": "Can you wrap it for me?", "alt": ["Could you wrap it for me?", "Can you wrap it up for me?"] },
+        { "vi": "Cái mũ này bao nhiêu tiền?", "en": "How much is this hat?", "alt": ["How much does this hat cost?"] }
+      ]
+    },
+    {
+      "id": "u3-l04",
+      "title": "Colors",
+      "tip": "Colours come after the noun: áo đỏ = red shirt. màu = colour. xanh can mean blue or green; xanh lá cây (leaf green) makes it clear.",
+      "items": [
+        { "vi": "Bạn thích màu gì?", "en": "What color do you like?", "alt": ["What colour do you like?", "Which color do you like?", "Which colour do you like?"] },
+        { "vi": "Tôi thích màu xanh lá cây.", "en": "I like green.", "alt": ["I like the color green.", "I like the colour green."] },
+        { "vi": "Bầu trời màu xanh.", "en": "The sky is blue." },
+        { "vi": "Tôi muốn mua cái áo màu trắng.", "en": "I want to buy the white shirt.", "alt": ["I want to buy a white shirt.", "I would like to buy the white shirt.", "I'd like to buy the white shirt."] },
+        { "vi": "Con mèo của tôi màu đen.", "en": "My cat is black." },
+        { "vi": "Cái xe máy đỏ kia là của tôi.", "en": "That red motorbike is mine.", "alt": ["That red scooter is mine.", "That red motorcycle is mine."] },
+        { "vi": "Hoa sen màu hồng.", "en": "The lotus flower is pink.", "alt": ["Lotus flowers are pink.", "The lotus is pink."] },
+        { "vi": "Có màu khác không?", "en": "Is there another color?", "alt": ["Do you have another color?", "Do you have other colours?", "Do you have other colors?", "Is there another colour?"] },
+        { "vi": "Chuối chín màu vàng.", "en": "Ripe bananas are yellow." },
+        { "vi": "Tôi không thích màu nâu.", "en": "I don't like brown.", "alt": ["I do not like brown.", "I don't like the color brown.", "I don't like the colour brown."] }
+      ]
+    },
+    {
+      "id": "u3-l05",
+      "title": "At home",
+      "tip": "Rooms: phòng khách (living room), phòng ngủ (bedroom), bếp (kitchen), nhà vệ sinh (toilet). Places: trên (on), dưới (under), trong (in).",
+      "items": [
+        { "vi": "Nhà tôi có ba phòng ngủ.", "en": "My house has three bedrooms.", "alt": ["My home has three bedrooms.", "There are three bedrooms in my house."] },
+        { "vi": "Mẹ đang ở trong bếp.", "en": "Mom is in the kitchen.", "alt": ["Mother is in the kitchen.", "Mum is in the kitchen.", "My mother is in the kitchen."] },
+        { "vi": "Phòng khách rất rộng.", "en": "The living room is very spacious.", "alt": ["The living room is very big.", "The living room is very large."] },
+        { "vi": "Chìa khóa ở trên bàn.", "en": "The key is on the table.", "alt": ["The keys are on the table."] },
+        { "vi": "Bạn sống ở chung cư à?", "en": "You live in an apartment?", "alt": ["Do you live in an apartment?", "Do you live in an apartment building?", "You live in an apartment building?"] },
+        { "vi": "Tôi thuê một căn hộ nhỏ.", "en": "I rent a small apartment.", "alt": ["I rent a small flat."] },
+        { "vi": "Mở cửa sổ ra đi!", "en": "Open the window!", "alt": ["Open the window, please!", "Open the window, go on!"] },
+        { "vi": "Tủ lạnh hết sữa rồi.", "en": "The fridge is out of milk.", "alt": ["There is no more milk in the fridge.", "There's no more milk in the fridge.", "We're out of milk."] },
+        { "vi": "Con chó đang ngủ dưới gầm giường.", "en": "The dog is sleeping under the bed.", "alt": ["The dog is asleep under the bed."] },
+        { "vi": "Tối nay tôi phải dọn nhà.", "en": "Tonight I have to clean the house.", "alt": ["I have to clean the house tonight.", "I must clean the house tonight.", "Tonight I must clean the house."] }
+      ]
+    },
+    {
+      "id": "u3-l06",
+      "title": "Health",
+      "tip": "bị + problem = to suffer from something: Tôi bị ốm (I'm sick; ốm is Northern, Southern: bệnh), tôi bị đau đầu (I have a headache). nên = should.",
+      "items": [
+        { "vi": "Tôi bị ốm.", "en": "I am sick.", "alt": ["I'm sick.", "I am ill.", "I'm ill."] },
+        { "vi": "Tôi bị đau đầu.", "en": "I have a headache.", "alt": ["I've got a headache."] },
+        { "vi": "Bạn bị làm sao thế?", "en": "What's wrong with you?", "alt": ["What is wrong with you?", "What's wrong?", "What happened to you?"], "note": "thế at the end is a Northern question softener (Southern: vậy)." },
+        { "vi": "Tôi bị sốt từ hôm qua.", "en": "I have had a fever since yesterday.", "alt": ["I've had a fever since yesterday."] },
+        { "vi": "Tôi cần gặp bác sĩ.", "en": "I need to see a doctor." },
+        { "vi": "Bụng tôi đau quá.", "en": "My stomach hurts so much.", "alt": ["My stomach really hurts.", "My belly hurts a lot.", "My stomach hurts a lot."] },
+        { "vi": "Mỗi ngày uống thuốc hai lần.", "en": "Take the medicine twice a day.", "alt": ["Take the medicine two times a day.", "Take medicine twice a day.", "Take the medicine twice every day."] },
+        { "vi": "Bạn nên nghỉ ngơi nhiều.", "en": "You should rest a lot.", "alt": ["You should get a lot of rest.", "You should rest more."] },
+        { "vi": "Tôi bị dị ứng với tôm.", "en": "I am allergic to shrimp.", "alt": ["I'm allergic to shrimp.", "I am allergic to prawns.", "I'm allergic to prawns."] },
+        { "vi": "Chúc bạn mau khỏe!", "en": "Get well soon!", "alt": ["I hope you get well soon!", "Wishing you a quick recovery!"] }
+      ]
+    },
+    {
+      "id": "u3-l07",
+      "title": "At the hotel",
+      "tip": "đặt phòng = book a room, nhận phòng = check in, trả phòng = check out. đã … rồi = already done.",
+      "items": [
+        { "vi": "Tôi đã đặt phòng rồi.", "en": "I have already booked a room.", "alt": ["I've already booked a room.", "I already booked a room.", "I have a reservation."] },
+        { "vi": "Còn phòng trống không?", "en": "Are there any rooms available?", "alt": ["Do you have any free rooms?", "Are there any vacant rooms?", "Do you have any rooms available?"] },
+        { "vi": "Tôi muốn ở ba đêm.", "en": "I want to stay three nights.", "alt": ["I would like to stay three nights.", "I'd like to stay for three nights.", "I want to stay for three nights."] },
+        { "vi": "Một đêm bao nhiêu tiền?", "en": "How much is one night?", "alt": ["How much per night?", "How much is it per night?"] },
+        { "vi": "Mật khẩu wifi là gì?", "en": "What is the wifi password?", "alt": ["What's the wifi password?", "What is the Wi-Fi password?", "What's the Wi-Fi password?"] },
+        { "vi": "Phòng có điều hòa không?", "en": "Does the room have air conditioning?", "alt": ["Is there air conditioning in the room?"] },
+        { "vi": "Mấy giờ phải trả phòng?", "en": "What time is check-out?", "alt": ["What time do I have to check out?", "When is check-out?", "What time must I check out?"] },
+        { "vi": "Có bao gồm bữa sáng không?", "en": "Is breakfast included?", "alt": ["Does it include breakfast?"] },
+        { "vi": "Vòi hoa sen bị hỏng.", "en": "The shower is broken.", "alt": ["The shower doesn't work.", "The shower does not work."] },
+        { "vi": "Tôi gửi hành lý ở đây được không?", "en": "Can I leave my luggage here?", "alt": ["May I leave my luggage here?", "Can I store my luggage here?", "Can I leave my bags here?"] }
+      ]
+    },
+    {
+      "id": "u3-l08",
+      "title": "Making plans",
+      "tip": "Suggest something with nhé: Đi ăn nhé! (Let's go eat!). Accept with Được! (Sure!). Decline politely: Tiếc quá, mình bận rồi. sẽ = will.",
+      "items": [
+        { "vi": "Tối nay bạn có rảnh không?", "en": "Are you free tonight?", "alt": ["Are you free this evening?"] },
+        { "vi": "Đi uống cà phê nhé!", "en": "Let's go for a coffee!", "alt": ["Let's go have coffee!", "Let's go drink coffee!", "Let's go for coffee!"] },
+        { "vi": "Được, mấy giờ?", "en": "Sure, what time?", "alt": ["Okay, what time?", "OK, what time?"] },
+        { "vi": "Mình gặp nhau ở đâu?", "en": "Where shall we meet?", "alt": ["Where should we meet?", "Where do we meet?"] },
+        { "vi": "Gặp nhau trước Nhà hát Lớn nhé.", "en": "Let's meet in front of the Opera House.", "alt": ["Meet in front of the Opera House.", "Let's meet in front of the opera house."] },
+        { "vi": "Tiếc quá, mình bận rồi.", "en": "What a pity, I'm busy.", "alt": ["Too bad, I'm busy.", "What a pity, I am busy.", "Sorry, I'm already busy.", "What a shame, I'm busy."] },
+        { "vi": "Hẹn bạn tuần sau nhé.", "en": "Let's meet next week.", "alt": ["See you next week.", "Let's make it next week."] },
+        { "vi": "Mình sẽ đến muộn mười phút.", "en": "I will be ten minutes late.", "alt": ["I'll be ten minutes late.", "I'm going to be ten minutes late."] },
+        { "vi": "Bạn đến chưa?", "en": "Are you here yet?", "alt": ["Have you arrived yet?", "Are you there yet?"] },
+        { "vi": "Mình đang trên đường đến.", "en": "I am on my way.", "alt": ["I'm on my way.", "I am on the way.", "I'm on the way."] }
+      ]
+    },
+    {
+      "id": "u3-l09",
+      "title": "On the phone",
+      "tip": "Answer the phone with A lô! Ask who is calling: Ai đấy ạ? (Northern đấy; Southern đó). nhắn tin = send a text message.",
+      "items": [
+        { "vi": "A lô, ai đấy ạ?", "en": "Hello, who is this?", "alt": ["Hello, who's calling?", "Hello, who is calling?", "Hello, who's this?"] },
+        { "vi": "Tôi là Minh đây.", "en": "It's Minh here.", "alt": ["This is Minh.", "It is Minh here.", "Minh here.", "It's Minh."] },
+        { "vi": "Cho tôi gặp chị Lan.", "en": "Can I speak to Lan, please?", "alt": ["May I speak to Lan?", "Can I speak with Lan?", "I'd like to speak to Lan.", "Can I speak to Lan?"] },
+        { "vi": "Chị ấy không có ở đây.", "en": "She is not here.", "alt": ["She's not here.", "She isn't here."] },
+        { "vi": "Bạn gọi lại sau nhé.", "en": "Please call back later.", "alt": ["Call back later, okay?", "Call back later.", "Please call again later."] },
+        { "vi": "Tôi sẽ nhắn tin cho bạn.", "en": "I will text you.", "alt": ["I'll text you.", "I will send you a message.", "I'll send you a message."] },
+        { "vi": "Điện thoại tôi hết pin rồi.", "en": "My phone's battery is dead.", "alt": ["My phone battery is dead.", "My phone is out of battery.", "My phone has run out of battery."] },
+        { "vi": "Bạn nghe rõ không?", "en": "Can you hear me clearly?", "alt": ["Can you hear me?", "Do you hear me clearly?", "Can you hear clearly?"] },
+        { "vi": "Tôi không nghe rõ.", "en": "I can't hear clearly.", "alt": ["I cannot hear clearly.", "I can't hear you clearly.", "I can't hear well."] },
+        { "vi": "Số của bạn là bao nhiêu?", "en": "What is your number?", "alt": ["What's your number?", "What's your phone number?", "What is your phone number?"] }
+      ]
+    },
+    {
+      "id": "u3-l10",
+      "title": "Travel",
+      "tip": "đã = past, sẽ = future, chưa = not yet. Bạn đã đến … chưa? = Have you been to … yet? Answer: Rồi (yes, already) or Chưa (not yet).",
+      "items": [
+        { "vi": "Bạn đã đến Hạ Long chưa?", "en": "Have you been to Hạ Long yet?", "alt": ["Have you been to Ha Long yet?", "Have you ever been to Hạ Long?", "Have you been to Hạ Long?", "Have you been to Ha Long?"] },
+        { "vi": "Tôi chưa đến đó bao giờ.", "en": "I have never been there.", "alt": ["I've never been there.", "I have never been there before.", "I've never been there before."] },
+        { "vi": "Năm sau tôi sẽ đi Sa Pa.", "en": "Next year I will go to Sa Pa.", "alt": ["I will go to Sa Pa next year.", "I'll go to Sa Pa next year.", "Next year I'll go to Sapa.", "Next year I'll go to Sa Pa."] },
+        { "vi": "Hội An rất đẹp vào buổi tối.", "en": "Hội An is very beautiful in the evening.", "alt": ["Hoi An is very beautiful in the evening.", "Hội An is very beautiful at night.", "Hoi An is very beautiful at night."] },
+        { "vi": "Tôi muốn đi thuyền trên sông.", "en": "I want to take a boat on the river.", "alt": ["I want to go on a boat on the river.", "I would like to take a boat on the river.", "I'd like to take a boat on the river."] },
+        { "vi": "Bạn có thể chụp ảnh giúp tôi không?", "en": "Can you take a photo for me?", "alt": ["Could you take a picture for me?", "Can you take a picture for me?", "Could you take a photo for me?"], "note": "chụp ảnh = take a photo in the North (Southern: chụp hình)." },
+        { "vi": "Vé vào cửa bao nhiêu tiền?", "en": "How much is the entrance ticket?", "alt": ["How much is the admission ticket?", "How much is the entry ticket?", "How much is entry?"] },
+        { "vi": "Chuyến đi này rất thú vị.", "en": "This trip is very interesting.", "alt": ["This trip was very interesting.", "This trip is very fun.", "This trip is really interesting."] },
+        { "vi": "Tôi đã ở Việt Nam hai tuần.", "en": "I have been in Vietnam for two weeks.", "alt": ["I've been in Vietnam for two weeks.", "I was in Vietnam for two weeks.", "I stayed in Vietnam for two weeks."] },
+        { "vi": "Tôi yêu Việt Nam!", "en": "I love Vietnam!" }
+      ]
+    }
+  ]
+}
