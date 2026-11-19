@@ -1,6 +1,6 @@
 # Language Trainer
 
-A Duolingo-style course for Vietnamese (Northern / Hanoi). You work through stages, each with 10 lessons of about 10 sentences. It's a static site in plain HTML, CSS and JavaScript, hosted on GitHub Pages. There is no backend, no login and no build step. Learning progress is stored in your browser.
+A gamified course for Vietnamese (Northern / Hanoi). You work through stages, each with 10 lessons of about 10 sentences. It's a static site in plain HTML, CSS and JavaScript, hosted on GitHub Pages. There is no backend, no login and no build step. Learning progress is stored in your browser.
 
 Live: https://floa93.github.io/language-trainer/
 

@@ -77,7 +77,7 @@ async function route() {
     if (active) a.setAttribute('aria-current', 'page');
     else a.removeAttribute('aria-current');
   });
-  // Lessons run full screen, like in Duolingo: no top bar or tab bar.
+  // Lessons run full screen: no top bar or tab bar.
   document.body.classList.toggle('fullscreen', !!fullscreen);
 
   // The settings button toggles: on the settings screen it leads back to where you came from.
